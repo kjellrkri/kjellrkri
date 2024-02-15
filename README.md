@@ -16,7 +16,7 @@ Hello, I'm Kjell. Data scientist with expertise in market analysis, machine lear
 
 ### 📚 Projects
 
-Welcome to my portfolio, where I showcase my [projects]().
+Welcome to my portfolio, where I showcase my [projects](https://github.com/kjellrkri/Portfolio).
 
 ### 🛠️ Tools
 
