@@ -1,16 +1,30 @@
-### Hi there 👋
+# 🙋🏻‍♂️ Introducing myself
 
-<!--
-**kjellrkri/kjellrkri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![banner](https://github.com/kjellrkri/Kjell-Randby-Kristensen/blob/main/Github%20banner.png)
 
-Here are some ideas to get you started:
+Hello, I'm Kjell. Data scientist with expertise in market analysis, machine learning and deep learning. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Data acquisition
+- Querying data using SQL
+- Data preperation
+- Exploratory Data Analysis
+- Data vizualisation
+- Machine learning
+- Deep learning
+- Market analysis
+- Reports writing
+
+### 📚 Projects
+
+Welcome to my portfolio, where I showcase my [projects]().
+
+### 🛠️ Tools
+
+- Language: SQL, Python, C
+- Database: MySQL
+- Vizualisation: Matplotlib, Seaborn.
+
+### 👋🏻 Connect with me
+
+- [Linkedin](https://www.linkedin.com/in/kjell-randby-kristensen/)
+
