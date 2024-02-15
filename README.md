@@ -1,6 +1,6 @@
 # 🙋🏻‍♂️ Introducing myself
 
-![banner](https://github.com/kjellrkri/Kjell-Randby-Kristensen/blob/main/Github%20banner.png)
+![banner](https://github.com/kjellrkri/kjellrkri/blob/main/Github%20banner.png)
 
 Hello, I'm Kjell. Data scientist with expertise in market analysis, machine learning and deep learning. 
 
